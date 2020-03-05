@@ -9,6 +9,7 @@ import Input from "./components/Input";
 import API from "./ChatbotAPI";
 
 import "./styles.css";
+import Header from "./components/Header";
 
 function Chatbot() {
   const [messages, setMessages] = useState([]);
@@ -38,7 +39,7 @@ function Chatbot() {
 
   return (
     <div className="chatbot">
-      <div className="header">&nbsp;React Chatbot UI</div>
+      <Header />
       <Messages messages={messages} />
       <Input onSend={send} />
     </div>
