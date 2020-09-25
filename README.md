@@ -1,22 +1,27 @@
-# React Chatbot UI
+# Simplet React Chatbot Client
 
-A simple Chatbot client built with React
+First Open Source Flutter based dribbblel Design Music Player.
 
-## Getting Started
+## Screenshot
 
-1. Clone this repository and `cd` into it.
-2. Execute `npm install` to download dependencies.
-3. Execute `npm run start'.
+- #### Light theme
 
-## Pre-requisites
+| ![](assets/preview.png) 
 
-- [Node.js](https://nodejs.org/en) and npm
+# License
 
-## Built With
+```
+Copyright 2020 Antonio Bonfiglio
 
-- [React](https://reactjs.org) - For creating the application frontend
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
+   http://www.apache.org/licenses/LICENSE-2.0
 
-## Licence
-
-[MIT](https://opensource.org/licenses/MIT)
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
