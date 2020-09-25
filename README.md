@@ -1,12 +1,8 @@
 # Simplet React Chatbot Client
 
-First Open Source Flutter based dribbblel Design Music Player.
 
 ## Screenshot
 
-- #### Light theme
-
-| ![](assets/preview.png) 
 
 # License
 
