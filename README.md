@@ -1,4 +1,4 @@
-# Simplet React Chatbot Client
+# Simple React Chatbot Client
 
 
 ## Screenshot
