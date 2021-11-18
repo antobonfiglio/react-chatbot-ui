@@ -27,6 +27,7 @@ function Chatbot() {
   }, []);
 
   const send = async text => {
+    if(!messages)return;
     const newMessages = messages.concat(
       <UserMessage key={messages.length + 1} text={text} />,
       <BotMessage
@@ -48,3 +49,4 @@ function Chatbot() {
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<Chatbot />, rootElement);
+// fdfdfdfdffdd
